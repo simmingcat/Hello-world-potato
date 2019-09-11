@@ -1,4 +1,4 @@
-# Hello-world-potato
+# Hello world potato
 Potato
 
 ---
